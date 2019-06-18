@@ -2,17 +2,30 @@ body{
     background: grey;
 }
 
-p
-{
+p{
     font-family: Arial, Helvetica, sans-serif;
     color: grey;
-    padding: 40px 0;
+    padding-top: 25px;
+    position: absolute;
+    text-align: center;
+    width: 75%;
 }
 
 header{
     height: 100px;
     width: 75%;
     background: white;
-    text-align: center;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+}
+
+nav{
+    height: 100px;
+    width: 75%;
+    background: white;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+
 }
