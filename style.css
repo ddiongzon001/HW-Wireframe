@@ -1,0 +1,18 @@
+body{
+    background: grey;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    padding: 40px 0;
+}
+
+header{
+    height: 100px;
+    width: 75%;
+    background: white;
+    text-align: center;
+    margin: auto;
+}
